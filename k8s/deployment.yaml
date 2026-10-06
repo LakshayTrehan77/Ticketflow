@@ -26,8 +26,8 @@ spec:
     spec:
       containers:
         - name: api
-          image: ticketflow-api:latest
-          imagePullPolicy: IfNotPresent
+          image: image: ghcr.io/lakshaytrehan77/ticketflow:latest
+          imagePullPolicy: Always
           ports:
             - containerPort: 8000
           envFrom:
