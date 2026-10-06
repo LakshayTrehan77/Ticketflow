@@ -1,0 +1,201 @@
+text,category,priority
+I was charged twice for my subscription this month please refund the extra payment,billing,high
+My invoice shows the wrong amount can you check it,billing,medium
+How do I download my invoice for last quarter,billing,low
+Credit card payment keeps failing even though the card is valid,billing,high
+I want to cancel my subscription and get a refund for the unused months,billing,medium
+Can you update the billing address on my account,billing,low
+There is an unknown charge on my bank statement from your company,billing,high
+Need a GST invoice with our company tax number,billing,low
+My payment went through but the account still shows as unpaid,billing,high
+What is the difference between the monthly and yearly plan pricing,billing,low
+Please change my plan from basic to pro starting next cycle,billing,medium
+The discount code I used was not applied at checkout,billing,medium
+I never received a receipt after paying yesterday,billing,low
+Auto renewal charged me after I had already cancelled,billing,high
+Can I pay using UPI instead of a credit card,billing,low
+The refund you promised last week has not reached my account yet,billing,medium
+Our team was billed for 20 seats but we only use 12,billing,medium
+Payment page throws an error when I try to add a new card,billing,medium
+Please send me a pricing quote for 50 users,billing,low
+I got a late fee on my invoice but I paid on time,billing,medium
+The app crashes every time I open the dashboard,technical,high
+API returns a 500 error on the upload endpoint since this morning,technical,high
+Page loads very slowly when I filter reports,technical,medium
+The export to CSV button does nothing when clicked,technical,medium
+Production environment is completely down and we are losing customers,technical,high
+Getting a timeout error when syncing large files,technical,medium
+Mobile app shows a blank white screen on android 14,technical,high
+Notifications are delayed by several hours,technical,medium
+The search results are not matching what I typed,technical,low
+Webhook calls are failing with a 403 response,technical,medium
+Images are not loading in the browser on the settings page,technical,low
+Data from yesterday disappeared from my reports,technical,high
+Layout looks broken on small screens,technical,low
+Getting an SSL certificate error when connecting to the API,technical,high
+The integration with Slack stopped sending messages,technical,medium
+Typo in the error message shown after uploading a file,technical,low
+Upload fails for files larger than 10 MB,technical,medium
+Dark mode makes some text unreadable,technical,low
+Database connection error appears randomly during peak hours,technical,high
+Scheduled reports are not being sent anymore,technical,medium
+I forgot my password and the reset email never arrives,account,medium
+My account got locked after too many login attempts,account,high
+How do I change the email address on my profile,account,low
+I think someone else logged into my account from another country,account,high
+Please delete my account and all my personal data,account,medium
+Two factor authentication code is not working on my new phone,account,high
+How can I add a new team member to our workspace,account,low
+I cannot verify my email the link says it has expired,account,medium
+Need to transfer account ownership to my manager,account,medium
+Can I change my username,account,low
+Single sign on login fails with our company Google account,account,high
+How do I change my profile picture,account,low
+I accidentally deleted a user from our team can you restore them,account,medium
+My login says invalid credentials but I am sure the password is right,account,high
+How do I turn off marketing emails from your company,account,low
+Please merge my two accounts into one,account,medium
+I want to update my phone number linked to the account,account,low
+Admin permissions disappeared from my user after the last update,account,high
+Can you tell me how to export my personal data,account,low
+The invite email for my teammate was sent to the wrong address,account,medium
+It would be great to have dark mode across the whole app,feature_request,low
+Please add an option to export reports as PDF,feature_request,low
+Can you add support for Microsoft Teams integration,feature_request,medium
+We need role based permissions with custom roles,feature_request,medium
+Would love a mobile widget to see the daily summary,feature_request,low
+Please add bulk edit for multiple items at once,feature_request,medium
+A keyboard shortcut for creating new tasks would save a lot of time,feature_request,low
+Can we get an API rate limit dashboard,feature_request,low
+Support for Hindi language in the interface would help our users,feature_request,low
+Please add an audit log so we can see who changed what,feature_request,medium
+Add the ability to schedule reports to send every Monday,feature_request,low
+We would like to connect with Jira automatically,feature_request,medium
+It would help if the calendar view could show weekends in a different colour,feature_request,low
+Please let us set custom fields on every project,feature_request,medium
+Suggestion to add an undo button after deleting items,feature_request,low
+Our company needs SAML support before we can roll this out to everyone,feature_request,high
+Can you add drag and drop for reordering the list,feature_request,low
+We would like a public roadmap page where we can vote on ideas,feature_request,low
+Please add an offline mode for the mobile app,feature_request,medium
+We need an option to export all data in bulk for compliance,feature_request,medium
+Hi do you have any documentation for getting started,general,low
+What are your support hours,general,low
+Is there a student discount available,general,low
+Where is your company located,general,low
+I would like to speak with a sales representative,general,medium
+Do you offer training sessions for new teams,general,low
+Is your service available in India,general,low
+Can you share your security and compliance certifications,general,medium
+Looking for partnership opportunities with your company,general,low
+How long do you keep customer data after the contract ends,general,medium
+Thanks for the quick help last time just wanted to say it was great,general,low
+Do you have a page where I can check uptime history,general,low
+Can someone from your team join our webinar next month,general,low
+Where can I find the terms of service,general,low
+Do you have a case study for the healthcare industry,general,low
+I need an urgent call with someone about our enterprise contract,general,high
+Are there any tutorials on youtube for beginners,general,low
+How do I contact the legal team about a data processing agreement,general,medium
+Do you plan to attend the cloud conference this year,general,low
+Could you confirm that you received my earlier email,general,low
+Why was my card charged 49 dollars when my plan is only 29,billing,medium
+I upgraded yesterday but the invoice still shows the old plan price,billing,medium
+Please refund the duplicate payment made on the 3rd of this month,billing,high
+My company card was declined but the money was deducted from my bank,billing,high
+Need an invoice in the name of our company instead of my personal name,billing,low
+How can I see my payment history for the whole year,billing,low
+Cancel my yearly plan and stop all future charges,billing,medium
+I was billed after my free trial ended and I never agreed to that,billing,high
+Can you explain the extra tax line on my last invoice,billing,low
+The coupon from the newsletter says invalid at the payment step,billing,medium
+Where do I find my receipt for tax filing,billing,low
+Our finance team needs a purchase order before we can pay,billing,medium
+I switched to the annual plan but I was still charged monthly,billing,medium
+Money was taken from my account twice for one order,billing,high
+Can I get a refund if I downgrade in the middle of the month,billing,low
+The amount in my invoice does not match the pricing page,billing,medium
+How do I add a second credit card as backup payment,billing,low
+Payment is stuck on processing for two days now,billing,high
+Please remove my saved card details from the billing page,billing,low
+I need to know when my next payment is due,billing,low
+Whenever I click save the page freezes and I lose my work,technical,high
+The mobile app closes by itself right after the splash screen,technical,high
+Reports take more than a minute to load for large date ranges,technical,medium
+I get a gateway timeout error when calling the search API,technical,high
+Charts on the analytics page show no data even though there should be some,technical,medium
+The sync between desktop and phone is not working,technical,medium
+File preview shows a broken icon for pdf documents,technical,low
+Everything is extremely slow since the update last night,technical,high
+The button text overlaps on the login screen in safari,technical,low
+API response contains duplicate records for the same item,technical,medium
+Email notifications are going to spam and some never arrive,technical,medium
+Cannot open the app on windows it shows a runtime error,technical,high
+Our automated job is failing with an out of memory error,technical,high
+The tooltip stays on screen after I move the mouse away,technical,low
+Pagination skips a page when I go to the next page,technical,medium
+Getting a 502 bad gateway when I try to download the report,technical,high
+The font looks blurry on high resolution screens,technical,low
+Calendar shows events one hour off after the daylight saving change,technical,medium
+The browser console shows lots of javascript errors on the home page,technical,low
+Drag and drop upload stopped working in firefox,technical,medium
+I cannot log in because it says my account does not exist,account,high
+Please reset two factor authentication for my account I lost my phone,account,high
+How do I change my display name that others see,account,low
+My password reset link keeps saying invalid token,account,medium
+I want to close my account permanently,account,medium
+Somebody changed my email address and I did not do it,account,high
+Can I use the same account on two different devices,account,low
+How do I remove a member who left our company,account,low
+I did not get the verification code on my mobile number,account,medium
+Can I link my google account to the existing login,account,low
+Login keeps redirecting back to the sign in page in a loop,account,high
+Please upgrade my user to admin so I can manage the team,account,medium
+How do I enable two step verification,account,low
+My colleague cannot accept the workspace invitation,account,medium
+I would like to change the language of my account settings,account,low
+Account was suspended without any warning please help,account,high
+How can I see which devices are logged into my account,account,low
+I signed up with the wrong email and need to correct it,account,medium
+Remove my access from the old workspace please,account,low
+The password rules are too strict can I use a shorter one,account,low
+It would be nice if we could pin important items to the top,feature_request,low
+Please add an option to duplicate a project with all its settings,feature_request,medium
+We really need a way to tag items with multiple labels,feature_request,medium
+Could you add a weekly email digest of all activity,feature_request,low
+Add support for exporting to Excel not just CSV,feature_request,low
+It would be helpful to have a dashboard widget for overdue items,feature_request,low
+Please allow attaching files larger than 25 MB,feature_request,medium
+We would like single click approval from the email notification,feature_request,low
+Can you build a browser extension for quick capture,feature_request,low
+An integration with Google Calendar would make our planning easier,feature_request,medium
+Add a way to comment on items and mention teammates,feature_request,medium
+It would be great to customize the colour theme of the workspace,feature_request,low
+Please add sorting by multiple columns in the table view,feature_request,low
+Is it possible to add a time tracking feature,feature_request,medium
+We need data residency options for our european customers,feature_request,high
+Please add templates for common project types,feature_request,low
+Could the app remember my last used filters,feature_request,low
+Add webhooks for when an item changes status,feature_request,medium
+I wish there was a way to hide completed tasks automatically,feature_request,low
+A native app for Mac would be great,feature_request,low
+Can I get a demo of the product for my team,general,low
+What programming languages does your API support,general,low
+Do you have an office in Bangalore,general,low
+How do I become a reseller of your product,general,medium
+Is there a free tier I can use for a college project,general,low
+Who should I contact for media and press questions,general,low
+Can I get a copy of your privacy policy,general,low
+Are you hiring for engineering roles at the moment,general,low
+Which cloud regions do you host the service in,general,low
+I am writing a blog post about your product and need some information,general,low
+We are evaluating tools for our company and have a few questions,general,medium
+Is there a community forum where users share tips,general,low
+Do you provide a service level agreement for enterprise customers,general,medium
+Can you recommend a partner who can help us with onboarding,general,low
+Please call me back regarding the proposal we discussed,general,medium
+Where can I find the release notes for the latest version,general,low
+I would like to give some feedback about the new website design,general,low
+Is the product accessible for people using screen readers,general,low
+Do you have a mobile app or only a web version,general,low
+Need an urgent reply about our contract renewal before friday,general,high
